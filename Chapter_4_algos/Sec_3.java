@@ -83,7 +83,7 @@ public class Sec_3{
         return max_idx;
     }
     
-    private static void swap(int [] arr, int idx, int idx_sw){
+    public static void swap(int [] arr, int idx, int idx_sw){
         int temp=arr[idx];
         arr[idx]=arr[idx_sw];
         arr[idx_sw]=temp;
