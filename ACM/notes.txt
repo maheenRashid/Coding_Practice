@@ -1,0 +1,11 @@
+questions
+    what is inputstream. -done
+    what is fileinputstream. how does it relate to inputstream. what is this concept in java -done
+    exception handling (Filenotfound, etc). what are the ways errors can be handled in java
+    for (String number:str.split(regex)) << what is this?
+    what is \\d+ and \\s+ . go through some regex
+    stringbuilder and bufferedreader. read documentation.-done
+
+Concept:
+    Abstract Class. -done
+        what's the difference between abstract class and interface? what's their point? -done
