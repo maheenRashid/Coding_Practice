@@ -1,0 +1,9 @@
+mistakes you made
+
+read sequence
+	tip. have an if for the first element so that you don't get confused with the beginning/termination conditions
+	not checking termination conditions
+	incrementing count twice
+	Character (Object) has equals. char has == != stuff
+	at the end once you're done reading the string you should also append
+	
